@@ -9,7 +9,7 @@ Public cloning and file cloning command
 <p><strong>*pip install bs4</strong>
 <p><strong>*rm -rf CR-7</strong>
 <p>*<strong>git clone https://github.com/SOMii-BRAND/CR-7.git</strong>
-<strong>*cd CR-7</strong>
-<strong>*python CR-7.py</strong>
+<p><strong>*cd CR-7</strong>
+<p><strong>*python CR-7.py</strong>
 
-*Working Termux 🔗 link - https://apkworldmod.com
+<p>*Working Termux 🔗 link - https://apkworldmod.com

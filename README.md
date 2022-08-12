@@ -1,4 +1,4 @@
-# CR-7
+# <i>CR-7</i>
 <h3>Public cloning and file cloning command </h3>
 <p><strong>*termux-setup-storage</strong>
 <p><strong>*pkg update</strong>
@@ -12,4 +12,4 @@
 <p><strong>*cd CR-7</strong>
 <p><strong>*python CR-7.py</strong>
 
-<p>*Working Termux 🔗 link - https://apkworldmod.com</p>
+<i>Working Termux 🔗 link - https://apkworldmod.com</i>

@@ -1,6 +1,6 @@
 # CR-7
 Public cloning and file cloning command 
-*termux-setup-storage
+<P>*termux-setup-storage</p>
 *pkg update
 *pkg upgrade
 *pkg install python

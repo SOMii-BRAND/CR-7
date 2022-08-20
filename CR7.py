@@ -7,7 +7,7 @@ from time import sleep
 import requests	
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from fly import set_ua
+    from xyz import set_ua
     time.sleep(3)
     os.system("xdg-open http://www.apkworldmod.com/")
     set_ua()

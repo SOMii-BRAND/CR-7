@@ -7,10 +7,10 @@ from time import sleep
 import requests	
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from xyz import _no_vpn
+    from xyz import xXxmenu
     time.sleep(3)
     os.system("xdg-open http://www.apkworldmod.com/")
-    _no_vpn()
+    xXxmenu()
 elif bit == '32bit':
     from f32 import _site_view_
     print("\n Congratulations! Your device supported!\n")
